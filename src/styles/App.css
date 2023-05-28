@@ -1,1 +1,14 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    width: 100%;
+    padding: 30px 30px;
+    background-color: chartreuse;
+}
+.child{
+    padding: 30px 30px;
+    background-color: orange;
+}
